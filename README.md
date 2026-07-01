@@ -19,5 +19,11 @@ A Python project that detects a peace ✌️ hand gesture using MediaPipe and au
 
 ```bash
 pip install -r requirements.txt
-
+```
+  
 ## Run
+```bash
+py FotoKitaBlur.py
+```
+
+Remember to download and place hand_landmarker.task file in the same folder as FotoKitaBlur.py before running the script
