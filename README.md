@@ -20,6 +20,4 @@ A Python project that detects a peace ✌️ hand gesture using MediaPipe and au
 ```bash
 pip install -r requirements.txt
 
-## **Run**
-```bash
-py FotoKitaBlur.py
+## Run
